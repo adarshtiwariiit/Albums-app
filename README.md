@@ -1,8 +1,9 @@
 # Albums-app
 <ul>
-<li>This is the albums app where we search in images from the external storage <\li>
-<li>The images are showed using grid View<\li>
-<li>Click on the images open new activity where we see the full image<\li>
+<li>This is the albums app where we search in images from the external storage </li>
+<li>The images are showed using grid View</li>
+<li>Click on the images open new activity where we see the full image</li>
+</ul>
 <br>
 <br>
 <br>
