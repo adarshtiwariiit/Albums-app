@@ -2,7 +2,7 @@
 <ul>
 <li>This is the albums app where we search in images from the external storage </li>
 <li>The images are showed using grid View</li>
-<li>Click on the images open new activity where we see the full image</li>
+<li>Click on the images opens new activity where we see the full Sized image</li>
 </ul>
 <br>
 <br>
